@@ -87,6 +87,7 @@
       }
     ];
     imx8.imports = [ ./imx8 ];
+    imx9.imports = [ ./imx9 ];
     polarfire.imports = [ ./polarfire ];
     jetpack.imports = [
       ./jetpack

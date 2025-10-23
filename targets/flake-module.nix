@@ -7,6 +7,8 @@
   imports = [
     ./generic-x86_64/flake-module.nix
     ./imx8mp-evk/flake-module.nix
+    ./imx93-evk/flake-module.nix
+    ./ucm-imx95/flake-module.nix
     ./laptop/flake-module.nix
     ./laptop-hw-scan/flake-module.nix
     #./microchip-icicle-kit/flake-module.nix

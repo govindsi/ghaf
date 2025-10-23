@@ -140,7 +140,7 @@
 
     # Hardware specific modules and configurations for NixOS
     nixos-hardware = {
-      url = "github:NixOS/nixos-hardware";
+      url = "github:govindsi/nixos-hardware?ref=feat/ucm-imx95-platform";
     };
 
     # Packages managment similar to nixpkgs, applied to flake parts
